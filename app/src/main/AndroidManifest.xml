@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.tulika.myapplication">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/icon"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/icon"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".activities.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".activities.login_activity" />
+        <activity android:name=".activities.ProfileActivity" />
+        <activity android:name=".activities.Dessert" />
+        <activity android:name=".activities.Beverages" />
+        <activity android:name=".activities.Snacks" />
+        <activity android:name=".activities.Star" />
+        <activity android:name=".activities.Cart" />
+        <activity
+            android:name=".activities.MainCourse"
+            android:label="@string/title_activity_min_course"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".User_Info" />
+        <activity android:name=".Payment" />
+        <activity android:name=".orders"></activity>
+    </application>
+
+</manifest>
