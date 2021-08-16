@@ -1,6 +1,6 @@
 online food order app with backend firebase connectivity. It has following features:
 1. Register/Login using email id
-![Register/Login](https://github.com/tulika612/ANNAM_Food_Order_App/blob/master/images/Screenshot_20190908-232142.png)
+<img src="images/Screenshot_20190908-232142.png" width="100">
 2. Different types of cuisines to choose from
 ![Menu](https://github.com/tulika612/ANNAM_Food_Order_App/blob/master/images/Screenshot_20190908-232023.png)
 3. Adding item in cart
