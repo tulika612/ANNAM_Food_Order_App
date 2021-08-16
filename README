@@ -1,15 +1,15 @@
 online food order app with backend firebase connectivity. It has following features:
 1. Register/Login using email id
-![Register/Login](images/Screenshot_20190908-232142.png)
+![Register/Login](./images/Screenshot_20190908-232142.png)
 2. Different types of cuisines to choose from
-![Menu](images/Screenshot_20190908-232023.png)
+![Menu](./images/Screenshot_20190908-232023.png)
 3. Adding item in cart
-![Menu(option to add in cart)](images/Screenshot_20190908-232034.png)
+![Menu(option to add in cart)](./images/Screenshot_20190908-232034.png)
 4. Deleting items from cart
-![Delete from cart](images/Screenshot_20190908-232055.png)
+![Delete from cart](./images/Screenshot_20190908-232055.png)
 5. Payment using debit card
-![Payment](images/Screenshot_20190908-232128.png)
+![Payment](./images/Screenshot_20190908-232128.png)
 6. Order Receipt
-![Receipt](images/Screenshot_20190908-232107.png)
+![Receipt](./images/Screenshot_20190908-232107.png)
 7. Feedback page
-![Feedback](images/Screenshot_20190908-232115.png)
+![Feedback](./images/Screenshot_20190908-232115.png)
