@@ -8,8 +8,9 @@ online food order app with backend firebase connectivity. It has following featu
 7. Feedback page <br/>  
 
  Screenshots
- ![Login](/images/Screenshot_20190908-232142.png) <br/>
+ ![Login](/images/Screenshot_20190908-232142.png) <br>
  ![Home](/images/Screenshot_20190908-232023.png) <br/> ![Home](/images/Screenshot_20190908-232034.png) <br/>
+ ![Voice Assistant](/images/Screenshot_20210816-160339.png) <br/>
  ![Cart 1](/images/Screenshot_20190908-232055.png) <br/>
  ![Payment](/images/Screenshot_20190908-232128.png) <br/>
  ![Feedback](/images/Screenshot_20190908-232115.png) <br/>
